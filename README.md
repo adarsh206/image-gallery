@@ -1,7 +1,10 @@
 # image-gallery
 Created an image gallery app with the help of HTML, CSS & Javascript.
 
-In this image gallery project you will find many images which you can scroll horizontally left and right with the help of mouse and also can scroll left and right with the left and right button present in the screen and also hover effect is there on the image when the mouse is pointed at the image.
+1. In this image gallery project you will find many images which you can scroll horizontally left and right with the help of mouse.
+2. and also can scroll left and right with the help of left and right button present on the screen.
+3. and also hover effect is there on the image when the mouse is pointed at the image.
+4. Basically, it is horizontally scroll image gallery.
 
 # How to use this project:
 
